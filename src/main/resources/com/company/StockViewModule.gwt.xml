@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='TradeViewModule'>
+  <inherits name='com.sencha.gxt.ui.GXT' />
+  <inherits name='com.google.gwt.user.User' />
+  <inherits name="de.novanic.eventservice.GWTEventService"/>
+  <inherits name='com.google.gwt.user.theme.standard.Standard' />
+  <entry-point class='com.company.client.TradeViewModule' />
+  <source path='client' />
+  <source path='shared' />
+  <servlet path="/ServerMessageGeneratorService" class="com.company.server.ServerMessageGeneratorServiceImpl"/>
+</module>

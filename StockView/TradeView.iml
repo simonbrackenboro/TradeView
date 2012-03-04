@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$USER_HOME$/TradeView">
+      <sourceFolder url="file://$USER_HOME$/TradeView/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/TradeView/src/main/resources" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/TradeView/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.google.gwt:gwt-servlet:2.4.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.gwt:gwt-user:2.4.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: javax.validation:validation-api:1.0.0.GA" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: javax.validation:validation-api:sources:1.0.0.GA" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gwteventservice:gwteventservice:1.2.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gwteventservice:eventservice-rpc:1.2.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gwteventservice:eventservice:1.2.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.sencha.gxt:gxt:3.0.0-beta4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.json:json:20090211" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.7" level="project" />
+  </component>
+</module>
+

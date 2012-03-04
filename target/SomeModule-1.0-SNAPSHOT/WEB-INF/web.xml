@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app
+        PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+        "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+    <servlet>
+        <servlet-name>eventServiceImpl</servlet-name>
+        <servlet-class>de.novanic.eventservice.service.EventServiceImpl</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>eventServiceImpl</servlet-name>
+        <url-pattern>/StockViewModule/gwteventservice</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ServerMessageGeneratorService</servlet-name>
+        <servlet-class>com.company.server.ServerMessageGeneratorServiceImpl</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ServerMessageGeneratorService</servlet-name>
+        <url-pattern>/StockViewModule/ServerMessageGeneratorService</url-pattern>
+    </servlet-mapping>
+
+
+    <!-- Default page to serve -->
+    <welcome-file-list>
+        <welcome-file>StockViewModule.html</welcome-file>
+    </welcome-file-list>
+
+</web-app>
