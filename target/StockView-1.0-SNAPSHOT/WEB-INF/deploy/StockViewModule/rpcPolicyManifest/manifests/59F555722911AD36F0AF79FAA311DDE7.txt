@@ -1,2 +1,0 @@
-serviceClass: com.company.client.ServerMessageGeneratorService
-path: 53DA653F0DD3789DBD6CB4E55CD1871F.gwt.rpc

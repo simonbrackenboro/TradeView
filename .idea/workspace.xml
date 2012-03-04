@@ -1,7 +1,294 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90a2ba40-09a4-4d57-955a-59836dc3b4ed" name="Default" comment="" />
+    <list default="true" id="90a2ba40-09a4-4d57-955a-59836dc3b4ed" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StockView/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StockView/.idea/libraries/Maven__com_google_code_gwteventservice_eventservice_1_2_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StockView/.idea/libraries/Maven__com_google_code_gwteventservice_eventservice_rpc_1_2_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StockView/.idea/libraries/Maven__com_google_code_gwteventservice_gwteventservice_1_2_0_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StockView/.idea/libraries/Maven__com_google_gwt_gwt_servlet_2_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StockView/.idea/libraries/Maven__com_google_gwt_gwt_user_2_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StockView/.idea/libraries/Maven__com_sencha_gxt_gxt_3_0_0_beta4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StockView/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StockView/.idea/libraries/Maven__javax_validation_validation_api_sources_1_0_0_GA.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StockView/.idea/libraries/Maven__junit_junit_4_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StockView/.idea/libraries/Maven__org_json_json_20090211.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StockView/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StockView/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StockView/.idea/scopes/scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StockView/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/StockView/TradeView.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/company/client/ServerGeneratedMessageEvent_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/company/client/ServerMessageGeneratorService_Proxy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/company/client/ServerMessageGeneratorService_TypeSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/company/client/StockPropertiesImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/company/client/Trade_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/company/client/Trade_date_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/company/client/Trade_im_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/company/client/Trade_name_ModelLabelProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/company/client/Trade_symbol_ModelKeyProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/company/client/Trade_tradeName_ModelKeyProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/company/client/Trade_tradeName_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/i18n/client/CurrencyList_.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/i18n/client/constants/NumberConstantsImpl_.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/i18n/client/impl/LocaleInfoImpl_.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/i18n/client/impl/LocaleInfoImpl_shared.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/i18n/shared/impl/DateRecord_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/DocumentModeAsserter_DocumentModeProperty.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/UserAgentAsserter_UserAgentPropertyImplSafari.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/IncompatibleRemoteServiceException_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/RpcTokenException_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/XsrfToken_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/lang/Boolean_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/lang/Exception_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/lang/Integer_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/lang/Number_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/lang/RuntimeException_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/lang/String_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/lang/Throwable_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/sql/Date_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/sql/Time_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/sql/Timestamp_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/util/ArrayList_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/util/Arrays_ArrayList_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/util/Collections_EmptyList_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/util/Collections_EmptySet_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/util/Collections_SingletonList_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/util/Date_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/util/HashSet_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/util/LinkedHashSet_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/util/LinkedList_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/util/Stack_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/util/TreeMap_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/util/TreeSet_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/rpc/core/java/util/Vector_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/core/client/GXTLogConfiguration_LogConfiguration_false.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/core/client/GXT_OS_mac.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/core/client/GXT_UserAgent_chrome.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/core/client/resources/CommonStyles_Bundle_safari_default_InlineClientBundleGenerator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/draggable/DraggableBaseAppearance_DraggableResources_safari_default_InlineClientBundleGenerator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/frame/NestedDivFrame_NestedDivFrameStyle_bodyWrap_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/frame/NestedDivFrame_NestedDivFrameStyle_bottomLeft_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/frame/NestedDivFrame_NestedDivFrameStyle_bottomRight_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/frame/NestedDivFrame_NestedDivFrameStyle_bottom_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/frame/NestedDivFrame_NestedDivFrameStyle_contentArea_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/frame/NestedDivFrame_NestedDivFrameStyle_content_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/frame/NestedDivFrame_NestedDivFrameStyle_left_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/frame/NestedDivFrame_NestedDivFrameStyle_right_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/frame/NestedDivFrame_NestedDivFrameStyle_topLeft_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/frame/NestedDivFrame_NestedDivFrameStyle_topRight_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/frame/NestedDivFrame_NestedDivFrameStyle_top_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/frame/NestedDivFrame_TemplateImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/frame/NestedDivFrame_Template_render_SafeHtml__NestedDivFrameStyle_style__SafeHtml_content___SafeHtmlTemplates.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/frame/NestedDivFrame_Template_render_SafeHtml__NestedDivFrameStyle_style__SafeHtml_content___SafeHtmlTemplatesImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/grid/ColumnHeaderBaseAppearance_ColumnHeaderResources_default_InlineClientBundleGenerator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/grid/ColumnHeaderBaseAppearance_ColumnHeaderStyle_headerInner_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/grid/ColumnHeaderBaseAppearance_ColumnHeaderStyle_header_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/grid/ColumnHeaderBaseAppearance_ColumnHeaderTemplateImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/grid/ColumnHeaderBaseAppearance_ColumnHeaderTemplate_render_SafeHtml__ColumnHeaderStyle_style___SafeHtmlTemplates.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/grid/ColumnHeaderBaseAppearance_ColumnHeaderTemplate_render_SafeHtml__ColumnHeaderStyle_style___SafeHtmlTemplatesImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/grid/GridBaseAppearance_GridResources_default_InlineClientBundleGenerator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/grid/GridBaseAppearance_GridStyle_body_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/grid/GridBaseAppearance_GridStyle_dataTable_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/grid/GridBaseAppearance_GridStyle_grid_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/grid/GridBaseAppearance_GridStyle_scroller_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/grid/GridBaseAppearance_GridTemplatesImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/grid/GridBaseAppearance_GridTemplates_render_SafeHtml__GridStyle_style___SafeHtmlTemplates.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/grid/GridBaseAppearance_GridTemplates_render_SafeHtml__GridStyle_style___SafeHtmlTemplatesImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/tips/TipBaseAppearance_TipDefaultTemplateImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/tips/TipBaseAppearance_TipDefaultTemplate_render_SafeHtml__TipStyle_style___SafeHtmlTemplates.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/tips/TipBaseAppearance_TipDefaultTemplate_render_SafeHtml__TipStyle_style___SafeHtmlTemplatesImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/tips/TipBaseAppearance_TipDivFrameResources_default_InlineClientBundleGenerator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/tips/TipBaseAppearance_TipResources_safari_default_InlineClientBundleGenerator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/tips/TipBaseAppearance_TipStyle_heading_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/tips/TipBaseAppearance_TipStyle_text_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/theme/base/client/tips/TipBaseAppearance_TipStyle_tools_ValueProviderImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/com/sencha/gxt/widget/core/client/grid/GridView_GridTemplatesImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/config/RemoteEventServiceConfigurationTransferable_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/event/DefaultDomainEvent_Array_Rank_1_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/event/DefaultDomainEvent_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/event/DomainEvent_Array_Rank_1_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/event/domain/DefaultDomain_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/event/filter/AppendableEventFilter_Array_Rank_1_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/event/filter/CascadingEventFilter_Array_Rank_1_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/event/filter/CompositeEventFilter_Array_Rank_1_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/event/filter/DefaultCompositeEventFilter_Array_Rank_1_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/event/filter/DefaultCompositeEventFilter_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/event/filter/DefaultEventFilter_Array_Rank_1_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/event/filter/DefaultEventFilter_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/event/filter/EventFilter_Array_Rank_1_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/event/listener/unlisten/DefaultUnlistenEvent_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/event/listener/unlisten/UnlistenEventListener_Scope_FieldSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/event/service/EventService_Proxy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.generated/de/novanic/eventservice/client/event/service/EventService_TypeSerializer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/StockViewModule.nocache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/button/arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/button/arrowBottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/button/split.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/button/splitBottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/clear.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/grid/checked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/grid/col-move-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/grid/col-move-top.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/grid/dirty.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/grid/grid3-hd-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/grid/grid3-hrow-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/grid/grid3-special-col-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/grid/grid3-special-col-sel-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/grid/group-expand-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/grid/invalid_line.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/grid/row-check-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/grid/row-expand-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/grid/row-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/grid/sort_asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/grid/sort_desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/base/images/grid/unchecked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/blank.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/blue/images/menu/menuParent.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/blue/images/slider/trackHorizontalLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/blue/images/slider/trackHorizontalMiddle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/blue/images/slider/trackHorizontalRight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/blue/images/slider/trackVerticalBottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/blue/images/slider/trackVerticalMiddle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/blue/images/slider/trackVerticalTop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/clear.cache.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/clear.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/css/blue.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/corner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/corner_ie6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/hborder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/hborder_ie6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/ie6/corner_dialog_topleft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/ie6/corner_dialog_topright.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/ie6/hborder_blue_shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/ie6/hborder_gray_shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/ie6/vborder_blue_shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/ie6/vborder_gray_shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/splitPanelThumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/vborder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/vborder_ie6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/gwt/standard/standard.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/gwt/standard/standard_rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/hosted.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/StockViewModule/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/classes/com/company/StockViewModule.gwt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/ServerGeneratedMessageEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/ServerMessageGeneratorService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/ServerMessageGeneratorServiceAsync.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/Stock.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/StockProperties.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/StockViewModule$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/StockViewModule$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/StockViewModule$VoidAsyncCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/StockViewModule.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/classes/com/company/server/ServerMessageGeneratorServiceImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/classes/com/company/server/ServerMessageGeneratorServiceImpl$ServerMessageGeneratorTimerTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/classes/com/company/server/ServerMessageGeneratorServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/classes/com/company/shared/FieldVerifier.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/classes/eventservice.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/deploy/StockViewModule/rpcPolicyManifest/manifest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/lib/eventservice-1.2.0-20111016.132827-2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/lib/eventservice-1.2.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/lib/eventservice-rpc-1.2.0-20111016.132542-2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/lib/eventservice-rpc-1.2.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/lib/gwt-servlet-2.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/lib/gwteventservice-1.2.0-20111016.133652-2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/lib/gwteventservice-1.2.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/SomeModule-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/1CAE4258D9A30A01E4926A862BB16B06.gwt.rpc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/53DA653F0DD3789DBD6CB4E55CD1871F.gwt.rpc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/StockViewModule.nocache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/button/arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/button/arrowBottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/button/split.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/button/splitBottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/clear.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/grid/checked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/grid/col-move-bottom.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/grid/col-move-top.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/grid/dirty.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/grid/grid3-hd-btn.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/grid/grid3-hrow-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/grid/grid3-special-col-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/grid/grid3-special-col-sel-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/grid/group-expand-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/grid/invalid_line.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/grid/row-check-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/grid/row-expand-sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/grid/row-over.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/grid/sort_asc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/grid/sort_desc.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/base/images/grid/unchecked.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/blank.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/blue/images/menu/menuParent.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/blue/images/slider/trackHorizontalLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/blue/images/slider/trackHorizontalMiddle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/blue/images/slider/trackHorizontalRight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/blue/images/slider/trackVerticalBottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/blue/images/slider/trackVerticalMiddle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/blue/images/slider/trackVerticalTop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/clear.cache.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/clear.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/css/blue.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/corner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/corner_ie6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/hborder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/hborder_ie6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/ie6/corner_dialog_topleft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/ie6/corner_dialog_topright.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/ie6/hborder_blue_shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/ie6/hborder_gray_shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/ie6/vborder_blue_shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/ie6/vborder_gray_shadow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/splitPanelThumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/vborder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/gwt/standard/images/vborder_ie6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/gwt/standard/standard.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/gwt/standard/standard_rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/hosted.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/StockViewModule/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes/com/company/StockViewModule.gwt.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/ServerGeneratedMessageEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/ServerMessageGeneratorService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/ServerMessageGeneratorServiceAsync.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/Stock.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/StockProperties.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/StockViewModule$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/StockViewModule$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/StockViewModule$VoidAsyncCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/StockViewModule.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes/com/company/client/Trade.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes/com/company/server/ServerMessageGeneratorServiceImpl$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes/com/company/server/ServerMessageGeneratorServiceImpl$ServerMessageGeneratorTimerTask.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes/com/company/server/ServerMessageGeneratorServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes/com/company/shared/FieldVerifier.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/classes/eventservice.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/deploy/StockViewModule/rpcPolicyManifest/manifest.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/deploy/StockViewModule/rpcPolicyManifest/manifests/59F555722911AD36F0AF79FAA311DDE7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/deploy/StockViewModule/rpcPolicyManifest/manifests/97E5FE3AA53CD07BEEB157AAD59A347F.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/lib/eventservice-1.2.0-20111016.132827-2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/lib/eventservice-1.2.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/lib/eventservice-rpc-1.2.0-20111016.132542-2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/lib/eventservice-rpc-1.2.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/lib/gwt-servlet-2.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/lib/gwteventservice-1.2.0-20111016.133652-2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/lib/gwteventservice-1.2.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/StockView-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-00000135DE1789AD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-00000135DE19F2DD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-00000135DE21F43D" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/TradeViewModule.html" afterPath="$PROJECT_DIR$/src/main/webapp/TradeViewModule.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+    </list>
     <ignored path="some-artifact.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,10 +345,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="web.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="22" selection-start="995" selection-end="995" vertical-scroll-proportion="0.63779527">
+            <state line="21" column="27" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="94" column="36" selection-start="3491" selection-end="3491" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StockViewModule.gwt.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/com/company/StockViewModule.gwt.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="34" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TradeViewModule.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/TradeViewModule.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="15" selection-start="392" selection-end="392" vertical-scroll-proportion="0.47244096">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TradeViewModule.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/client/TradeViewModule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="13" selection-start="867" selection-end="867" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -82,12 +405,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/company/client/StockProperties.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/client/TestData.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/SomeModule.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/client/ServerMessageGeneratorService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/server/ServerGeneratedMessageEvent.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/client/ServerMessageGeneratorServiceAsync.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/client/ServerGeneratedMessageEvent.java" />
         <option value="$PROJECT_DIR$/src/main/resources/com/company/SomeModule.gwt.xml" />
@@ -95,9 +416,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/company/client/SomeModule.java" />
         <option value="$PROJECT_DIR$/src/main/resources/eventservice.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/client/StockViewModule.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/com/company/StockViewModule.gwt.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/StockViewModule.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/TradeViewModule.html" />
       </list>
     </option>
   </component>
@@ -124,6 +447,48 @@
           <option name="myItemId" value="GWT Maven Archetype" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="GWT Maven Archetype" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="GWT Maven Archetype" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="gwt" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="GWT Maven Archetype" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
         <PATH_ELEMENT>
           <option name="myItemId" value="Lifecycle" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
@@ -136,7 +501,7 @@
     <option name="width" value="1440" />
     <option name="height" value="794" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -147,7 +512,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="0" />
+    <option name="STATE" value="2" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -162,14 +527,158 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="StockView" />
+              <option name="myItemId" value="TradeView" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TradeView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TradeView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TradeView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TradeView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TradeView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TradeView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TradeView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TradeView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shared" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TradeView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TradeView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TradeView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TradeView" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -178,17 +687,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="MavenSettings" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -415,6 +927,7 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5422222" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -422,13 +935,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2341954" sideWeight="0.6903704" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2413793" sideWeight="0.69185185" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34985632" sideWeight="0.6903704" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30945557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34985632" sideWeight="0.69185185" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30814815" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -516,13 +1028,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com/company/StockViewModule.gwt.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="34" selection-start="73" selection-end="73" vertical-scroll-proportion="0.02636204">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/client/ServerMessageGeneratorServiceAsync.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="17" selection-start="100" selection-end="100" vertical-scroll-proportion="0.095846646">
@@ -544,9 +1049,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/company/StockViewModule.gwt.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="34" selection-start="73" selection-end="73" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/client/TradeViewModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="13" selection-start="867" selection-end="867" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="22" selection-start="995" selection-end="995" vertical-scroll-proportion="0.63779527">
+        <state line="21" column="27" selection-start="834" selection-end="834" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="36" selection-start="3491" selection-end="3491" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/TradeViewModule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="15" selection-start="392" selection-end="392" vertical-scroll-proportion="0.47244096">
           <folding />
         </state>
       </provider>
@@ -603,7 +1136,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>some-artifact</last-edited>
+          <last-edited>StockView</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

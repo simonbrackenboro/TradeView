@@ -10,7 +10,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>eventServiceImpl</servlet-name>
-        <url-pattern>/StockViewModule/gwteventservice</url-pattern>
+        <url-pattern>/TradeViewModule/gwteventservice</url-pattern>
     </servlet-mapping>
 
     <servlet>
@@ -19,7 +19,7 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>ServerMessageGeneratorService</servlet-name>
-        <url-pattern>/StockViewModule/ServerMessageGeneratorService</url-pattern>
+        <url-pattern>/TradeViewModule/ServerMessageGeneratorService</url-pattern>
     </servlet-mapping>
 
 
